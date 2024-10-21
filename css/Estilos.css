@@ -11368,3 +11368,18 @@ button:hover {
   margin-top: 10px;
   padding-top: 10px;
 }
+
+
+.text-muted2 {
+  --bs-text-opacity: 1;
+  color: #6c757d !important;
+  font-size: 20px;
+  width: 100%;
+}
+
+.navbar-brand {
+
+  border-radius: 100px;
+
+}
+
